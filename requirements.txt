@@ -1,1 +1,8 @@
-flask
+Flask==2.3.4
+Flask-Cors==3.0.11
+pymongo==4.4.1
+python-dotenv==1.0.0
+cloudinary==1.34.0
+Werkzeug==2.3.7
+python-dateutil==2.8.2
+bson==0.5.10
